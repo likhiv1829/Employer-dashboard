@@ -31,6 +31,8 @@ A full-stack Employer Dashboard web app built with React(frontend) and Python To
 ![Screenshot 2025-06-27 120824](https://github.com/user-attachments/assets/9bcb7d57-fdd5-4cc7-9f69-078c158f9771)
 ![Screenshot 2025-06-27 120839](https://github.com/user-attachments/assets/90f6c0b4-4bec-4da3-b16e-77eb31c33ed2)
 ![Screenshot 2025-06-27 120921](https://github.com/user-attachments/assets/15e14689-cd7e-43f9-bbf5-2f7c3f18925a)
+![Screenshot 2025-06-27 120848](https://github.com/user-attachments/assets/305cf186-9ad7-485b-8c29-f6393ca2443d)
+
 
 
 

@@ -5,7 +5,8 @@ A full-stack Employer Dashboard web app built with React(frontend) and Python To
 
 - Frontend: React, React Router DOM, Axios, Toastify
 - Backend: Python 3, Tornado Web Framework
-- Database: MySQL
+- Database: MySQL(phpmyadmin)
+
 - Styling: CSS Modules 
 
 #Backend Setup (Python + Tornado)
@@ -24,10 +25,13 @@ A full-stack Employer Dashboard web app built with React(frontend) and Python To
 - cd ../frontend
 - npm install
 - npm start
-![Screenshot 2025-06-27 120921](https://github.com/user-attachments/assets/c256ca36-0867-4ffb-b36b-5e86c8041c26)
-![Screenshot 2025-06-27 120848](https://github.com/user-attachments/assets/f76d21b5-7b1f-44bf-9f79-704a881236df)
-![Screenshot 2025-06-27 120839](https://github.com/user-attachments/assets/94fc6077-0f7d-41f9-a916-332a5047cd52)
-![Screenshot 2025-06-27 120824](https://github.com/user-attachments/assets/98fc4014-e06e-4610-8aef-f65ab883ea85)
-![Screenshot 2025-06-27 120811](https://github.com/user-attachments/assets/800d2b0b-ebdd-4db1-bb04-617a673d0ea1)
-![Screenshot 2025-06-27 120723](https://github.com/user-attachments/assets/766ac68e-7eca-403d-b43b-11e2c0a24bdf)
+
+![Screenshot 2025-06-27 120723](https://github.com/user-attachments/assets/5126ed64-56e2-4f3e-a185-b9240f2817a4)
+![Screenshot 2025-06-27 120811](https://github.com/user-attachments/assets/cb64c14a-1a0a-44f1-804d-2c31b98cb737)
+![Screenshot 2025-06-27 120824](https://github.com/user-attachments/assets/9bcb7d57-fdd5-4cc7-9f69-078c158f9771)
+![Screenshot 2025-06-27 120839](https://github.com/user-attachments/assets/90f6c0b4-4bec-4da3-b16e-77eb31c33ed2)
+![Screenshot 2025-06-27 120921](https://github.com/user-attachments/assets/15e14689-cd7e-43f9-bbf5-2f7c3f18925a)
+
+
+
 
